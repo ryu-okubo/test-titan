@@ -2858,6 +2858,10 @@ Google map
     letter-spacing: 6px;
     font-size: 28px;
   }
+  /* videos */
+  .myvideo{
+    visibility: hidden;
+  }
   /* Features */
   .features-item {
     margin: 0 0 30px;
